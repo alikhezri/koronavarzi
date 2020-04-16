@@ -12,7 +12,7 @@ def tab_sanj():
 		print("Wrong value entered. Try again later.")
 
 
-if __name__ =' __main__':
+if __name__ ==' __main__':
 	while:
 		item = input("Select from items('tabsanj', 'exit'): ")
 		if item == 'tabsanj':
