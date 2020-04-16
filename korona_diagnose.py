@@ -13,4 +13,11 @@ def tab_sanj():
 
 
 if __name__ ==' __main__':
-	tab_sanj()
+	while:
+		item = input("Select from items('tabsanj', 'exit'): ")
+		if item == 'tabsanj':
+			tab_sanj()
+		elif item == 'exit':
+			break
+		else:
+			print("Wrong item selected. Please enter a correct one!")
