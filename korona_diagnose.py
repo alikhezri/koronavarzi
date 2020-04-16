@@ -12,5 +12,5 @@ def tab_sanj():
 		print("Wrong value entered. Try again later.")
 
 
-if __name__ =' __main__':
+if __name__ ==' __main__':
 	tab_sanj()
