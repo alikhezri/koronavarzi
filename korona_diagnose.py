@@ -19,4 +19,5 @@ if __name__ =' __main__':
 			tab_sanj()
 		elif item == 'exit':
 			break
-
+		else:
+			print("Wrong item selected. Please enter a correct one!")
